@@ -1,0 +1,19 @@
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display+SC);
+
+body{
+	font-family:'Playfair Display SC', serif;
+}
+#test{
+	width:50%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+h1{
+	text-align: center
+}
+
+td{
+	width:50%;
+	padding: 20px;
+}
